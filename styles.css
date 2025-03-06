@@ -45,7 +45,9 @@ body {
 }
 
 .icon.selected {
-    border-color: pink;
+    border-color: magenta; /* Magenta border */
+    background-color: rgba(255, 0, 255, 0.2); /* Slightly filled with magenta */
+    border-radius: 10px; /* Optional: Rounded corners for better appearance */
 }
 
 .icon img {
