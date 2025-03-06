@@ -46,16 +46,4 @@ body {
 
 .icon.selected {
     border: 2px solid rgb(255, 0, 100); /* RGB(255, 0, 100) border */
-    background-color: rgb(255, 0, 100); /* 100% opacity fill */
-    border-radius: 0; /* Square shape */
-}
-
-.icon img {
-    width: 50px;
-    height: 50px;
-}
-
-.icon span {
-    margin-top: 10px;
-    font-size: 18px;
-}
+    background-color: rgb(255,
