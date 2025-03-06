@@ -45,9 +45,9 @@ body {
 }
 
 .icon.selected {
-    border-color: magenta; /* Magenta border */
-    background-color: rgba(255, 0, 255, 0.2); /* Slightly filled with magenta */
-    border-radius: 10px; /* Optional: Rounded corners for better appearance */
+    border-color: rgb(255, 0, 100); /* RGB(255, 0, 100) border */
+    background-color: rgba(255, 0, 100, 0.2); /* Slightly filled with RGB(255, 0, 100) */
+    border-radius: 0; /* Square shape */
 }
 
 .icon img {
