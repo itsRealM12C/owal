@@ -1,6 +1,6 @@
 /* General Styles */
 body {
-    font-family: 'Miso', sans-serif;
+    font-family: 'Museo Sans', sans-serif;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -56,5 +56,4 @@ body {
 .icon span {
     margin-top: 10px;
     font-size: 18px;
-    font-family: 'Museo Sans', sans-serif; /* Apply Museo Sans font */
 }
