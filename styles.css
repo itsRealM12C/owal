@@ -56,4 +56,5 @@ body {
 .icon span {
     margin-top: 10px;
     font-size: 18px;
+    font-family: 'Museo Sans', sans-serif; /* Apply Museo Sans font */
 }
